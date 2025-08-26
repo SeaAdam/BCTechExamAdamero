@@ -1,0 +1,6 @@
+@BCTechExamAdamero_HostAddress = http://localhost:5293
+
+GET {{BCTechExamAdamero_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
