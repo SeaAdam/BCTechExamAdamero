@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BCTechExamAdamero")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2a6b0547eb4df119c3f9e4fbaa1a6bd10f598f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8819d814958ac8c85372cdea1bd0b958e7131dbe")]
 [assembly: System.Reflection.AssemblyProductAttribute("BCTechExamAdamero")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BCTechExamAdamero")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
