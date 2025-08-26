@@ -20,7 +20,7 @@ A simple **Create, Read, Update, Delete (CRUD)** application built using C# WEB 
 -Navigate to EmployeeApi folder you will see my codes there.
 -(wwwroot) contains my FRONTEND.
 
-##Usage
+## Usage
 -Run in sln file after downloading my repo to visual studio
 -run the debug to see and open swagger
 -when you successfully open swagger and run the web api or test it
