@@ -56,6 +56,7 @@ namespace BCTechExamAdamero.Repository
 
             oldEmployee.Name = employeeModel.Name;
             oldEmployee.Email = employeeModel.Email;
+            oldEmployee.Age = employeeModel.Age;
             oldEmployee.Address = employeeModel.Address;
 
             await _context.SaveChangesAsync();

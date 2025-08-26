@@ -1,13 +1,11 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace BCTechExamAdamero.Models
+﻿
+namespace BCTechExamAdamero.Dto
 {
-    public class Employee
+    public class EmployeesDto
     {
         public int Id { get; set; }
-        [Required]
         public string Name { get; set; }
-        public int Age { get; set; }
+        public int? Age { get; set; }
         public string? Address { get; set; }
         public string? Email { get; set; }
     }

@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ANGEL\\source\\repos\\BCTechExamAdamero\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42A21771-6D3F-46EC-BD9D-3057E0581DEE}|BCTechExamAdamero.csproj|c:\\users\\angel\\source\\repos\\bctechexamadamero\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42A21771-6D3F-46EC-BD9D-3057E0581DEE}|BCTechExamAdamero.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BCD4857-9097-0F57-5E55-953C29BA97E5}|EmployeeApi\\BCTechExamAdamero.csproj|c:\\users\\angel\\source\\repos\\bctechexamadamero\\employeeapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{0BCD4857-9097-0F57-5E55-953C29BA97E5}|EmployeeApi\\BCTechExamAdamero.csproj|solutionrelative:employeeapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42A21771-6D3F-46EC-BD9D-3057E0581DEE}|BCTechExamAdamero.csproj|c:\\users\\angel\\source\\repos\\bctechexamadamero\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42A21771-6D3F-46EC-BD9D-3057E0581DEE}|BCTechExamAdamero.csproj|solutionrelative:repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BCD4857-9097-0F57-5E55-953C29BA97E5}|EmployeeApi\\BCTechExamAdamero.csproj|c:\\users\\angel\\source\\repos\\bctechexamadamero\\employeeapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BCD4857-9097-0F57-5E55-953C29BA97E5}|EmployeeApi\\BCTechExamAdamero.csproj|solutionrelative:employeeapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42A21771-6D3F-46EC-BD9D-3057E0581DEE}|BCTechExamAdamero.csproj|c:\\users\\angel\\source\\repos\\bctechexamadamero\\interface\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42A21771-6D3F-46EC-BD9D-3057E0581DEE}|BCTechExamAdamero.csproj|solutionrelative:interface\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42A21771-6D3F-46EC-BD9D-3057E0581DEE}|BCTechExamAdamero.csproj|c:\\users\\angel\\source\\repos\\bctechexamadamero\\dto\\employeesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42A21771-6D3F-46EC-BD9D-3057E0581DEE}|BCTechExamAdamero.csproj|solutionrelative:dto\\employeesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42A21771-6D3F-46EC-BD9D-3057E0581DEE}|BCTechExamAdamero.csproj|c:\\users\\angel\\source\\repos\\bctechexamadamero\\mappers\\employeemappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42A21771-6D3F-46EC-BD9D-3057E0581DEE}|BCTechExamAdamero.csproj|solutionrelative:mappers\\employeemappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42A21771-6D3F-46EC-BD9D-3057E0581DEE}|BCTechExamAdamero.csproj|c:\\users\\angel\\source\\repos\\bctechexamadamero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42A21771-6D3F-46EC-BD9D-3057E0581DEE}|BCTechExamAdamero.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BCD4857-9097-0F57-5E55-953C29BA97E5}|EmployeeApi\\BCTechExamAdamero.csproj|c:\\users\\angel\\source\\repos\\bctechexamadamero\\employeeapi\\wwwroot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0BCD4857-9097-0F57-5E55-953C29BA97E5}|EmployeeApi\\BCTechExamAdamero.csproj|solutionrelative:employeeapi\\wwwroot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,88 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\ANGEL\\source\\repos\\BCTechExamAdamero\\EmployeeApi\\wwwroot\\app.js",
+              "RelativeDocumentMoniker": "EmployeeApi\\wwwroot\\app.js",
+              "ToolTip": "C:\\Users\\ANGEL\\source\\repos\\BCTechExamAdamero\\EmployeeApi\\wwwroot\\app.js",
+              "RelativeToolTip": "EmployeeApi\\wwwroot\\app.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-26T11:07:45.292Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\ANGEL\\source\\repos\\BCTechExamAdamero\\EmployeeApi\\.gitignore",
+              "RelativeDocumentMoniker": "EmployeeApi\\.gitignore",
+              "ToolTip": "C:\\Users\\ANGEL\\source\\repos\\BCTechExamAdamero\\EmployeeApi\\.gitignore",
+              "RelativeToolTip": "EmployeeApi\\.gitignore",
+              "ViewState": "AgIAAIoBAAAAAAAAAAAUwJ8BAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-26T13:17:40.646Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EmployeesDto.cs",
-              "DocumentMoniker": "C:\\Users\\ANGEL\\source\\repos\\BCTechExamAdamero\\Dto\\EmployeesDto.cs",
-              "RelativeDocumentMoniker": "Dto\\EmployeesDto.cs",
-              "ToolTip": "C:\\Users\\ANGEL\\source\\repos\\BCTechExamAdamero\\Dto\\EmployeesDto.cs",
-              "RelativeToolTip": "Dto\\EmployeesDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T09:18:09.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ANGEL\\source\\repos\\BCTechExamAdamero\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ANGEL\\source\\repos\\BCTechExamAdamero\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T09:01:14.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\ANGEL\\source\\repos\\BCTechExamAdamero\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\ANGEL\\source\\repos\\BCTechExamAdamero\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAkwGIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T08:51:37.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ANGEL\\source\\repos\\BCTechExamAdamero\\Repository\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\EmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\ANGEL\\source\\repos\\BCTechExamAdamero\\Repository\\EmployeeRepository.cs",
-              "RelativeToolTip": "Repository\\EmployeeRepository.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwCIAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T08:49:58.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IEmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ANGEL\\source\\repos\\BCTechExamAdamero\\Interface\\IEmployeeRepository.cs",
-              "RelativeDocumentMoniker": "Interface\\IEmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\ANGEL\\source\\repos\\BCTechExamAdamero\\Interface\\IEmployeeRepository.cs",
-              "RelativeToolTip": "Interface\\IEmployeeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T08:48:29.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmployeeMappers.cs",
-              "DocumentMoniker": "C:\\Users\\ANGEL\\source\\repos\\BCTechExamAdamero\\Mappers\\EmployeeMappers.cs",
-              "RelativeDocumentMoniker": "Mappers\\EmployeeMappers.cs",
-              "ToolTip": "C:\\Users\\ANGEL\\source\\repos\\BCTechExamAdamero\\Mappers\\EmployeeMappers.cs",
-              "RelativeToolTip": "Mappers\\EmployeeMappers.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T08:36:31.582Z",
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\ANGEL\\source\\repos\\BCTechExamAdamero\\EmployeeApi\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "EmployeeApi\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\ANGEL\\source\\repos\\BCTechExamAdamero\\EmployeeApi\\wwwroot\\index.html",
+              "RelativeToolTip": "EmployeeApi\\wwwroot\\index.html",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwC8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-26T11:07:23.885Z",
               "EditorCaption": ""
             }
           ]

@@ -11,6 +11,7 @@ namespace BCTechExamAdamero.Mappers
             {
                 Id = employeeModel.Id,
                 Name = employeeModel.Name,
+                Age = employeeModel.Age,
                 Email = employeeModel.Email,
                 Address = employeeModel.Address,
             };
@@ -22,6 +23,7 @@ namespace BCTechExamAdamero.Mappers
             {
                 Name = createEmployeesDto.Name,
                 Email = createEmployeesDto.Email,
+                Age = createEmployeesDto.Age,
                 Address = createEmployeesDto.Address,
             };
         }
@@ -32,6 +34,7 @@ namespace BCTechExamAdamero.Mappers
             {
                 Name = updateEmployeesDto.Name,
                 Email = updateEmployeesDto.Email,
+                Age = updateEmployeesDto.Age,
                 Address = updateEmployeesDto.Address
             };
         }
